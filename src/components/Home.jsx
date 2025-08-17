@@ -12,7 +12,7 @@ const Home = () => {
       <section className="hero">
         <div className="hero-content">
           <h1 className="headline">
-            Welcome to <span className="brand">Dream Nexus.</span>
+            Welcome to <span className="brand">Dream Nexus!</span>
           </h1>
           <p className="intro">
             I’m <span className="name">Sanskar Gupta</span>, here to help you grow.

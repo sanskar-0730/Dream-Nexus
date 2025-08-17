@@ -19,7 +19,7 @@ const About = () => {
         </p>
 
         <p>
-          Through <b>Dream Nexus</b>, I share <b>simple yet powerful strategies</b> 
+          Through <b>Dream Nexus</b>, I share <b>simple yet powerful strategies </b> 
           for improving wellness, building confidence, and creating additional income streams. 
           This platform isn’t just about products or business — it’s about designing a lifestyle that gives you 
           <b> more time, choices, and freedom</b>.
@@ -42,7 +42,7 @@ const About = () => {
         </ul>
 
         <p>
-          If you’re ready to make a change, let’s connect and explore how <b>Dream Nexus</b> 
+          If you’re ready to make a change, let’s connect and explore how <b>Dream Nexus </b> 
           can help you build your success story with guidance from <b>Sanskar Gupta</b>.
         </p>
 
